@@ -1,0 +1,34 @@
+#registerButton {
+    background-color: #28a745;
+    border-color: #28a745;
+    border-radius: 4px;
+    align-items: center;
+    border-color: none;
+}
+#registerButton:hover {
+    background-color: red;
+    border-color: blue;
+}
+#registerPage {
+    background-color:purple;
+    padding: 20px;
+    align-content: center;
+
+
+}
+#myExperiencePage {
+    background-color: lightblue;
+    padding: 20px;
+    align-content: center;
+}
+#navbar {
+    background-color: #333;
+    inset-inline-start: 0px;
+    ul, li {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        float: left;
+    }
+
+}
