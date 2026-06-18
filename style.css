@@ -1,0 +1,25 @@
+#navbar {
+list-style-type: none;
+margin: 0;
+padding: 0;
+display:fixed;
+gap: 30px;
+}
+#li {
+    display: inline;
+    text-decoration: none;
+    color: black;
+    font-weight:bold
+}
+#list {
+    color: blue;
+    text-decoration: none;
+    gap: 30px;
+    font-weight: bold;
+    padding: 20px 30px;
+    border-radius: 10px;
+    transition: all 0.3s color 0.3s;
+}
+
+
+
